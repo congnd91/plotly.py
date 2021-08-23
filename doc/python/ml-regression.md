@@ -1,4 +1,5 @@
 ---
+permalink: python/ml-regression/
 jupyter:
   jupytext:
     notebook_metadata_filter: all
